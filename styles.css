@@ -6,7 +6,7 @@
 
 
 body {
-    background: black;
+background-image:linear-gradient(black, purple);
     color: white;
 }
    .navbar ul { 
@@ -79,11 +79,7 @@ hr {
  height: 700px;
  background: transparent;
  border: 1px solid linear-gradient(black, purple);
-background-image: linear-gradient(black, purple);
-     margin: auto;
- 
- 
- 
+margin: auto;
  }
  .linkssize{
    
