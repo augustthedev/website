@@ -13,7 +13,7 @@ body {
 }
 
 .miniSteel {
-animation: redPinkWhite 2s infinite;
+animation: redPinkWhite 4s infinite;
 }
     
 @keyframes redPinkWhite {
