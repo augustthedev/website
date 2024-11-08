@@ -8,19 +8,27 @@
 body {
     background: linear-gradient(-45deg, #de6262, #ffb88c);
     color: white;
-    text-shadow: 2px 2px 4px #000000;
-    font-family: 'Roboto';
 
 }
-   
+
+h1 {
+text-shadow: 2px 2px 4px #000000;
+    font-family: 'Roboto';
+}
+
+p {
+text-shadow: 2px 2px 4px #000000;
+    font-family: 'Roboto';
+}
+
 
 hr {
   size: "10";
   
   }
- marquee {
-  
-  font-family: 'Roboto';
+
+marquee {
+ font-family: 'Roboto';
 }
 
  
