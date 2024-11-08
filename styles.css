@@ -9,64 +9,7 @@ body {
     background: linear-gradient(-45deg, #de6262, #ffb88c);
  color: white;
 }
-   .navbar ul { 
-    font-family: 'Roboto';
-list-style: none;
-}
-
-.navbar a {
-    float: left;
-    display: box;
-    padding: 10px;
-    text-decoration: none;
-    /*color:inherit;*/
-    color: white;
-    text-decoration: none;
-}
-.row {
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    left: 0;
-    top: 0;
-}
-.links {
-    /*color:inherit;*/
-    color: white;
-    text-decoration: none;
-}
-.links:hover{
-    color: lightgray;
-}
-.navbar a:hover {
-    color: lightgray;
-}
-h1 {
-    font-family: 'Roboto';
-text-align: center;
-}
-p {
-    font-family: 'Roboto';
-text-align: center;
-font-size: 10px;
-}
-h3 {
-    font-family: 'Roboto';
-text-align: center;
-}
-a {
-    text-align: center;
-    font-family: 'Roboto';
-}
-
-}
-.entry {
-   font-size: 10px;
-    font-family: 'Roboto';
-}
-button {
-  font-family: 'Roboto';
-  }
+   
 
 hr {
   size: "10";
@@ -76,31 +19,6 @@ hr {
   
   font-family: 'Roboto';
 }
- .homebox{
-   position: relative;
- width: 390px;
- height: 700px;
- background: transparent;
- border: 1px solid linear-gradient(black, purple);
-margin: auto;
- }
- .linkssize{
-   
-   text-decoration: underline;
-text-align: center;
- }
- 
- .followMe {
-    position: fixed;
-    width: 390px;
-    border: 1px solid #fff;
-   background: black;
- z-index: 1;
-text-align: center;
- }
- 
-ul {
-  list-style: none;
-}
+
  
  
