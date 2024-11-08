@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'BIOS';
     src: url(Ac437_Acer_VGA_8x8.ttf);
 }
 
@@ -27,12 +27,12 @@ body {
     }
 
 h1 {
-    font-family: 'Roboto';
+    font-family: 'BIOS';
 }
 
 p {
 text-shadow: 2px 2px 4px #000000;
-    font-family: 'Roboto';
+    font-family: 'BIOS';
 }
 
 
@@ -42,8 +42,8 @@ hr {
   }
 
 marquee {
- font-family: 'Roboto';
-    text-shadow: 2px 2px 4px #000000;
+ font-family: 'BIOS';
+text-shadow: 2px 2px 4px #000000;
 
 }
 
