@@ -10,9 +10,20 @@ body {
     color: white;    
     animation: movingGrad 6s ease infinite;
    
-    {
-    
+}
 
+.miniSteel {
+animation: redPinkWhite 2s infinite;
+}
+    
+@keyframes redPinkWhite {
+0% { color: red; }
+10% { color: pink; }
+25% { color: white; }
+50% { color: red; }
+75% { color: pink; }
+100% { color: white; }
+}
     @keyframes movingGraf {
     0% {
         background-position: 0% 50%;
