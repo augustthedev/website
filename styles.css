@@ -42,7 +42,7 @@ h1 {
 }
 
 p {
-text-shadow: 2px 2px 4px #f28d85;
+text-shadow: 2px 2px 4px #ff580a;
     font-family: 'BIOS';
 }
 
@@ -54,7 +54,7 @@ hr {
 
 marquee {
  font-family: 'BIOS';
-text-shadow: 2px 2px 4px #f28d85;
+text-shadow: 2px 2px 4px #ff580a;
 
 }
 
@@ -62,5 +62,5 @@ text-shadow: 2px 2px 4px #f28d85;
  a {
 color: white;
 font-family: 'BIOS';
-text-shadow: 2px 2px 4px #f28d85;
+text-shadow: 2px 2px 4px #ff580a
  }
