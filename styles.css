@@ -7,9 +7,24 @@
 
 body {
     background: linear-gradient(-45deg, #de6262, #ffb88c);
-    color: white;
+    color: white;    
+    animation: movingGrad 6s ease infinite;
+   
+    {
+    
 
+    @keyframes movingGraf {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0%  50%;
 }
+
+    }
 
 h1 {
     font-family: 'Roboto';
