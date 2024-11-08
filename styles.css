@@ -17,7 +17,7 @@ animation: redPinkWhite 2s infinite;
 }
     
 @keyframes redPinkWhite {
-0% { color: red; }
+0% { color: white; }
 10% { color: pink; }
 25% { color: white; }
 50% { color: red; }
