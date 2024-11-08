@@ -24,7 +24,7 @@ animation: redPinkWhite 2s infinite;
 75% { color: pink; }
 100% { color: white; }
 }
-    @keyframes movingGraf {
+    @keyframes movingGrad {
     0% {
         background-position: 0% 50%;
     }
@@ -42,7 +42,7 @@ h1 {
 }
 
 p {
-text-shadow: 2px 2px 4px #000000;
+text-shadow: 2px 2px 4px #f28d85;
     font-family: 'BIOS';
 }
 
@@ -54,11 +54,13 @@ hr {
 
 marquee {
  font-family: 'BIOS';
-text-shadow: 2px 2px 4px #000000;
+text-shadow: 2px 2px 4px #f28d85;
 
 }
 
  
  a {
 color: white;
+font-family: 'BIOS';
+text-shadow: 2px 2px 4px #f28d85;
  }
